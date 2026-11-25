@@ -49,26 +49,6 @@ Ask your agent to:
 - **"Make it less AI"** — audit only: tells found + one-line fix each
 - **"Give me 3 hero options"** — monumental type, full-bleed lifestyle, pure typographic
 
-## KOVA ONE — before / after
-
-The method was distilled from an audit of a fictional headphone brand, KOVA ONE.
-
-**Before (AI slop):** cream background, "NEW V2.4" pill, headline *"Sound that feels real."*, "Pure sound. Every moment.", 3 icon cards, blurry purple glow, "99.9% Noise Cancelling · 12M+ Users", "Get Started →" + "Learn More", sections fading in on scroll.
-
-**After (premium):** white background, no pill, "KOVA ONE" edge-to-edge at 220px, product cutout overlapping the type, studio light with a real shadow, corner specs (TL "KOVA ONE / 2026", TR "Headphones", BL "254g / 40h / 40mm", BR "$349"), one glass dock, statement "Headphones for long listening.", specs as a hairline table, one 64px quote, one 6-second breathing motion.
-
-**What changed:** not more decoration. Less decoration + bigger type + real light + real space + one dock + one motion.
-
-## Rules the skill enforces
-
-- **Never invent stats, testimonials, review scores, or user counts.** Real specs only, or placeholders marked `[NEEDS REAL DATA]`.
-- **Never ship KOVA copy for another brand.** Reuse the structure, not the brand.
-- **If it fails the QA checklist, it is not premium.** Fix it before delivering.
-
-## Credits
-
-Combined from three sources describing the same method — a design-guide video audit of KOVA ONE, a written Editorial Luxury system, and a Premium Editorial system based on the KOVA ONE audit by **[@muhammadalim_s](https://www.instagram.com/muhammadalim_s)**. Where the sources disagreed (tell count, type scale, gradient text, dock position), the resolutions are recorded in the skill file itself.
-
 ## License
 
 MIT — see [LICENSE](LICENSE).
